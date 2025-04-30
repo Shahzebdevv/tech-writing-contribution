@@ -4,7 +4,7 @@ Thiss documnt explans how you can forked repo and start work on its. please foll
 
 2. First Fork repo on GitHUb from the top-right side (dont forget this step is crucial!).
 
-1. clone it to ur lapotp by running folowing comman:
+1. clone it to your lapotp by running folowing comman:
 ```
 git clone https://github/com/username/repo-name.git
 ```
@@ -14,12 +14,12 @@ git clone https://github/com/username/repo-name.git
 cd into repo-name
 ```
 
-10. creat a new BRANCH for ur changes (this is required!)
+10. creat a new BRANCH for your changes (this is required!)
 ```
 git branch -b myFeatureFix
 ```
 
-3. make change u wants to do in file. add cool feature or remove bugs or do both but dont break code, then add files using below command:
+3. make change you wants to do in file. add cool feature or remove bugs or do both but don't break code, then add files using below command:
 ```
 git add .
 ```
